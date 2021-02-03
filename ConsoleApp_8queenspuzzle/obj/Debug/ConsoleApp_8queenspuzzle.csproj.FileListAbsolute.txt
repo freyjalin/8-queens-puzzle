@@ -1,0 +1,7 @@
+C:\Users\suya0\source\repos\ConsoleApp_8queenspuzzle\ConsoleApp_8queenspuzzle\bin\Debug\ConsoleApp_8queenspuzzle.exe.config
+C:\Users\suya0\source\repos\ConsoleApp_8queenspuzzle\ConsoleApp_8queenspuzzle\bin\Debug\ConsoleApp_8queenspuzzle.exe
+C:\Users\suya0\source\repos\ConsoleApp_8queenspuzzle\ConsoleApp_8queenspuzzle\bin\Debug\ConsoleApp_8queenspuzzle.pdb
+C:\Users\suya0\source\repos\ConsoleApp_8queenspuzzle\ConsoleApp_8queenspuzzle\obj\Debug\ConsoleApp_8queenspuzzle.csprojAssemblyReference.cache
+C:\Users\suya0\source\repos\ConsoleApp_8queenspuzzle\ConsoleApp_8queenspuzzle\obj\Debug\ConsoleApp_8queenspuzzle.csproj.CoreCompileInputs.cache
+C:\Users\suya0\source\repos\ConsoleApp_8queenspuzzle\ConsoleApp_8queenspuzzle\obj\Debug\ConsoleApp_8queenspuzzle.exe
+C:\Users\suya0\source\repos\ConsoleApp_8queenspuzzle\ConsoleApp_8queenspuzzle\obj\Debug\ConsoleApp_8queenspuzzle.pdb
